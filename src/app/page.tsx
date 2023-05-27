@@ -5,8 +5,9 @@ import {
   Container,
   Text,
   Button,
-  Stack,
-} from '@chakra-ui/react';
+  Stack
+} from '@chakra-ui/react'
+import { type } from 'os'
 
 export default function Home() {
   return (
