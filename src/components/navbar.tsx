@@ -73,8 +73,8 @@ export default function WithSubnavigation() {
             fontSize={'sm'}
             fontWeight={400}
             variant={'link'}
-            href={'#'}>
-            Sign In
+            href={'/signin'}>
+            Sign in
           </Button>
           <Button
             as={'a'}
