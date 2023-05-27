@@ -50,8 +50,6 @@ export default function Page() {
     )
   }
 
-
-
   return (
     <ChakraProvider>
       <div>
